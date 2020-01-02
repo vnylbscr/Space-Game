@@ -1,4 +1,5 @@
-
+// @author mert genç
+// 19.04.2019
 import java.awt.HeadlessException;
 import java.io.FileNotFoundException;
 import javax.swing.JFrame;
